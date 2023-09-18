@@ -102,3 +102,21 @@ g++ areaKyotto.cpp -o area
 vim areaKyotto.cpp
 g++ areaKyotto.cpp -o area
 ./area
+ls
+git init
+ls
+git add SumaKyottoMurillo 
+git add Suma2KyottoMurillo.cpp
+git commit -m "version1"
+git config --global user.email "kyotto071@gmail.com"
+git commit -m "version1"
+git remote add origin https://github.com/KyottoMurilloMolina/KyottoMolina.git
+git push --force origin master
+vim SumaNKyottoMurillo.cpp
+g++ SumaNKyottoMurillo.cpp
+vim SumaNKyottoMurillo.cpp
+g++ SumaNKyottoMurillo.cpp -o SumaNKyottoMurillo
+./SumaNKyottoMurillo
+3
+./SumaNKyottoMurillo
+scp SumaNKyottoMurillo.cpp pi@192.168.6.24:~/2023-09-15/

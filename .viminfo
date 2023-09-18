@@ -21,9 +21,9 @@ $z
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1694699178,,"q"
+|2,0,1694791058,,"q"
 :w
-|2,0,1694699176,,"w"
+|2,0,1694791056,,"w"
 :set nu
 |2,0,1694699124,,"set nu"
 :set number
@@ -68,34 +68,74 @@ $z
 # global variables:
 
 # File marks:
-'0  17  10  ~/Suma2KyottoMurillo.cpp
-|4,48,17,10,1694699178,"~/Suma2KyottoMurillo.cpp"
-'1  7  11  ~/Suma2KyottoMurillo.cpp
-|4,49,7,11,1694699071,"~/Suma2KyottoMurillo.cpp"
-'2  7  11  ~/Suma2KyottoMurillo.cpp
-|4,50,7,11,1694699071,"~/Suma2KyottoMurillo.cpp"
-'3  25  0  ~/Suma2KyottoMurillo.cpp
-|4,51,25,0,1694698949,"~/Suma2KyottoMurillo.cpp"
-'4  25  0  ~/Suma2KyottoMurillo.cpp
-|4,52,25,0,1694698949,"~/Suma2KyottoMurillo.cpp"
-'5  23  0  ~/Suma2KyottoMurillo.cpp
-|4,53,23,0,1694698949,"~/Suma2KyottoMurillo.cpp"
-'6  23  0  ~/Suma2KyottoMurillo.cpp
-|4,54,23,0,1694698949,"~/Suma2KyottoMurillo.cpp"
+'0  19  10  ~/SumaNKyottoMurillo.cpp
+|4,48,19,10,1694791058,"~/SumaNKyottoMurillo.cpp"
+'1  20  0  ~/SumaNKyottoMurillo.cpp
+|4,49,20,0,1694790988,"~/SumaNKyottoMurillo.cpp"
+'2  19  0  ~/SumaNKyottoMurillo.cpp
+|4,50,19,0,1694790988,"~/SumaNKyottoMurillo.cpp"
+'3  17  10  ~/Suma2KyottoMurillo.cpp
+|4,51,17,10,1694699178,"~/Suma2KyottoMurillo.cpp"
+'4  7  11  ~/Suma2KyottoMurillo.cpp
+|4,52,7,11,1694699071,"~/Suma2KyottoMurillo.cpp"
+'5  7  11  ~/Suma2KyottoMurillo.cpp
+|4,53,7,11,1694699071,"~/Suma2KyottoMurillo.cpp"
+'6  25  0  ~/Suma2KyottoMurillo.cpp
+|4,54,25,0,1694698949,"~/Suma2KyottoMurillo.cpp"
 '7  25  0  ~/Suma2KyottoMurillo.cpp
-|4,55,25,0,1694698827,"~/Suma2KyottoMurillo.cpp"
-'8  25  0  ~/Suma2KyottoMurillo.cpp
-|4,56,25,0,1694698827,"~/Suma2KyottoMurillo.cpp"
+|4,55,25,0,1694698949,"~/Suma2KyottoMurillo.cpp"
+'8  23  0  ~/Suma2KyottoMurillo.cpp
+|4,56,23,0,1694698949,"~/Suma2KyottoMurillo.cpp"
 '9  23  0  ~/Suma2KyottoMurillo.cpp
-|4,57,23,0,1694698827,"~/Suma2KyottoMurillo.cpp"
+|4,57,23,0,1694698949,"~/Suma2KyottoMurillo.cpp"
 
 # Jumplist (newest first):
+-'  19  10  ~/SumaNKyottoMurillo.cpp
+|4,39,19,10,1694791058,"~/SumaNKyottoMurillo.cpp"
+-'  20  0  ~/SumaNKyottoMurillo.cpp
+|4,39,20,0,1694791041,"~/SumaNKyottoMurillo.cpp"
+-'  19  0  ~/SumaNKyottoMurillo.cpp
+|4,39,19,0,1694790988,"~/SumaNKyottoMurillo.cpp"
+-'  1  0  ~/SumaNKyottoMurillo.cpp
+|4,39,1,0,1694790467,"~/SumaNKyottoMurillo.cpp"
+-'  1  0  ~/SumaNKyottoMurillo.cpp
+|4,39,1,0,1694790467,"~/SumaNKyottoMurillo.cpp"
+-'  17  10  ~/Suma2KyottoMurillo.cpp
+|4,39,17,10,1694699178,"~/Suma2KyottoMurillo.cpp"
+-'  17  10  ~/Suma2KyottoMurillo.cpp
+|4,39,17,10,1694699178,"~/Suma2KyottoMurillo.cpp"
+-'  17  10  ~/Suma2KyottoMurillo.cpp
+|4,39,17,10,1694699178,"~/Suma2KyottoMurillo.cpp"
 -'  17  10  ~/Suma2KyottoMurillo.cpp
 |4,39,17,10,1694699178,"~/Suma2KyottoMurillo.cpp"
 -'  7  11  ~/Suma2KyottoMurillo.cpp
 |4,39,7,11,1694699116,"~/Suma2KyottoMurillo.cpp"
 -'  7  11  ~/Suma2KyottoMurillo.cpp
+|4,39,7,11,1694699116,"~/Suma2KyottoMurillo.cpp"
+-'  7  11  ~/Suma2KyottoMurillo.cpp
+|4,39,7,11,1694699116,"~/Suma2KyottoMurillo.cpp"
+-'  7  11  ~/Suma2KyottoMurillo.cpp
+|4,39,7,11,1694699116,"~/Suma2KyottoMurillo.cpp"
+-'  7  11  ~/Suma2KyottoMurillo.cpp
 |4,39,7,11,1694699071,"~/Suma2KyottoMurillo.cpp"
+-'  7  11  ~/Suma2KyottoMurillo.cpp
+|4,39,7,11,1694699071,"~/Suma2KyottoMurillo.cpp"
+-'  7  11  ~/Suma2KyottoMurillo.cpp
+|4,39,7,11,1694699071,"~/Suma2KyottoMurillo.cpp"
+-'  7  11  ~/Suma2KyottoMurillo.cpp
+|4,39,7,11,1694699071,"~/Suma2KyottoMurillo.cpp"
+-'  25  0  ~/Suma2KyottoMurillo.cpp
+|4,39,25,0,1694699015,"~/Suma2KyottoMurillo.cpp"
+-'  23  0  ~/Suma2KyottoMurillo.cpp
+|4,39,23,0,1694699015,"~/Suma2KyottoMurillo.cpp"
+-'  25  0  ~/Suma2KyottoMurillo.cpp
+|4,39,25,0,1694699015,"~/Suma2KyottoMurillo.cpp"
+-'  23  0  ~/Suma2KyottoMurillo.cpp
+|4,39,23,0,1694699015,"~/Suma2KyottoMurillo.cpp"
+-'  25  0  ~/Suma2KyottoMurillo.cpp
+|4,39,25,0,1694699015,"~/Suma2KyottoMurillo.cpp"
+-'  23  0  ~/Suma2KyottoMurillo.cpp
+|4,39,23,0,1694699015,"~/Suma2KyottoMurillo.cpp"
 -'  25  0  ~/Suma2KyottoMurillo.cpp
 |4,39,25,0,1694699015,"~/Suma2KyottoMurillo.cpp"
 -'  23  0  ~/Suma2KyottoMurillo.cpp
@@ -103,7 +143,25 @@ $z
 -'  23  0  ~/Suma2KyottoMurillo.cpp
 |4,39,23,0,1694698949,"~/Suma2KyottoMurillo.cpp"
 -'  23  0  ~/Suma2KyottoMurillo.cpp
+|4,39,23,0,1694698949,"~/Suma2KyottoMurillo.cpp"
+-'  23  0  ~/Suma2KyottoMurillo.cpp
+|4,39,23,0,1694698949,"~/Suma2KyottoMurillo.cpp"
+-'  23  0  ~/Suma2KyottoMurillo.cpp
+|4,39,23,0,1694698949,"~/Suma2KyottoMurillo.cpp"
+-'  23  0  ~/Suma2KyottoMurillo.cpp
 |4,39,23,0,1694698827,"~/Suma2KyottoMurillo.cpp"
+-'  23  0  ~/Suma2KyottoMurillo.cpp
+|4,39,23,0,1694698827,"~/Suma2KyottoMurillo.cpp"
+-'  23  0  ~/Suma2KyottoMurillo.cpp
+|4,39,23,0,1694698827,"~/Suma2KyottoMurillo.cpp"
+-'  23  0  ~/Suma2KyottoMurillo.cpp
+|4,39,23,0,1694698827,"~/Suma2KyottoMurillo.cpp"
+-'  23  0  ~/Suma2KyottoMurillo.cpp
+|4,39,23,0,1694698754,"~/Suma2KyottoMurillo.cpp"
+-'  23  0  ~/Suma2KyottoMurillo.cpp
+|4,39,23,0,1694698754,"~/Suma2KyottoMurillo.cpp"
+-'  23  0  ~/Suma2KyottoMurillo.cpp
+|4,39,23,0,1694698754,"~/Suma2KyottoMurillo.cpp"
 -'  23  0  ~/Suma2KyottoMurillo.cpp
 |4,39,23,0,1694698754,"~/Suma2KyottoMurillo.cpp"
 -'  1  0  ~/Suma2KyottoMurillo.cpp
@@ -116,6 +174,42 @@ $z
 |4,39,1,0,1694698537,"~/Suma2KyottoMurillo.cpp"
 -'  1  0  ~/Suma2KyottoMurillo.cpp
 |4,39,1,0,1694698537,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698537,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698537,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698537,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698537,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698537,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698537,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698537,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698537,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698537,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698537,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698537,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698537,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698537,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698537,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698537,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698508,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698508,"~/Suma2KyottoMurillo.cpp"
+-'  1  0  ~/Suma2KyottoMurillo.cpp
+|4,39,1,0,1694698508,"~/Suma2KyottoMurillo.cpp"
 -'  1  0  ~/Suma2KyottoMurillo.cpp
 |4,39,1,0,1694698508,"~/Suma2KyottoMurillo.cpp"
 -'  16  0  ~/SumaKyottoMurillo.cpp
@@ -196,102 +290,18 @@ $z
 |4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
 -'  16  0  ~/SumaKyottoMurillo.cpp
 |4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  16  0  ~/SumaKyottoMurillo.cpp
-|4,39,16,0,1694698137,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
--'  1  0  ~/SumaKyottoMurillo.cpp
-|4,39,1,0,1694697637,"~/SumaKyottoMurillo.cpp"
 
 # History of marks within files (newest to oldest):
+
+> ~/SumaNKyottoMurillo.cpp
+	*	1694791056	0
+	"	19	10
+	^	19	11
+	.	20	0
+	+	15	2
+	+	9	5
+	+	21	0
+	+	20	0
 
 > ~/Suma2KyottoMurillo.cpp
 	*	1694699176	0
