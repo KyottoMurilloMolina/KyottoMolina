@@ -120,3 +120,130 @@ g++ SumaNKyottoMurillo.cpp -o SumaNKyottoMurillo
 3
 ./SumaNKyottoMurillo
 scp SumaNKyottoMurillo.cpp pi@192.168.6.24:~/2023-09-15/
+git init
+ls
+mv Suma2KyottoMurillo.cpp Suma2MurilloKyotto.cpp
+ls
+mv SumaKyottoMurillo.cpp SumaMurilloKyotto.cpp
+ls
+mv SumaNKyottoMurillo.cpp SumaNMurilloKyotto.cpp
+git init
+git add .
+git commit -m "version1"
+git remote add origin https://github.com/KyottoMurilloMolina/KyottoMolina.git
+git push -u origin master
+vim Suma3MurilloKyotto.cpp
+g++ Suma3MurilloKyotto.cpp -o Suma3MurilloKyotto.cpp
+./Suma3MurilloKyotto.cpp
+vim Suma3MurilloKyotto.cpp
+ls
+mv Suma3MurilloKyotto.cpp Suma3KyottoMurillo
+ls
+vim Suma3MurilloKyotto.cpp
+vim Suma3MurilloKyotto
+./Suma3KyottoMurillo
+vim Suma3MurilloKyotto.cpp
+vim Suma3MurilloKyotto
+clear
+ls
+vim Suma3KyottoMurillo
+vim Suma3KyottoMurillo.cpp
+g++ Suma3KyottoMurillo.cpp -o Suma3KyottoMurillo
+./Suma3KyottoMurillo
+git init 
+git add .
+git commit -m "version2"
+git remote add origin https://github.com/KyottoMurilloMolina/KyottoMolina.git
+git push -u origin master
+vim DistanciarecorridaMurilloKyotto.cpp
+ls
+vim SumaMurilloKyotto.cpp
+vim SumaNMurilloKyotto.cpp
+vim Suma3Murillokyotto.cpp
+ls
+rm Suma3MurilloKyotto.cpp
+ls
+vim Suma3KyottoMurillo.cpp
+vim DistanciarecorridaMurilloKyotto.cpp
+g++ DistanciarecorridaMurilloKyotto.cpp -o velocidad
+./velocidad
+vim DistanciarecorridaMurilloKyotto.cpp
+g++ DistanciarecorridaMurilloKyotto.cpp -o velocidad
+./velocidad
+vim DistanciarecorridaMurilloKyotto.cpp
+g++ DistanciarecorridaMurilloKyotto.cpp -o velocidad
+./velocidad
+vim DistanciarecorridaMurilloKyotto.cpp
+vim Suma3KyottoMurillo.cpp
+vim SumaMuriLloKyotto.cpp
+rm SumaMuriLloKyotto.cpp
+ls
+vim SumaMurilloKyotto.cpp
+vim DistanciarecorridaMurilloKyotto.cpp
+g++ DistanciarecorridaMurilloKyotto.cpp -o velocidad
+vim SumaMurilloKyotto.cpp
+vim DistanciarecorridaMurilloKyotto.cpp
+g++ DistanciarecorridaMurilloKyotto.cpp -o velocidad
+./velocidad
+vim DistanciarecorridaMurilloKyotto.cpp
+g++ DistanciarecorridaMurilloKyotto.cpp -o velocidad
+./velocidad
+vim DistanciarecorridaMurilloKyotto.cpp
+g++ DistanciarecorridaMurilloKyotto.cpp -o velocidad
+vim DistanciarecorridaMurilloKyotto.cpp
+g++ DistanciarecorridaMurilloKyotto.cpp -o velocidad
+vim DistanciarecorridaMurilloKyotto.cpp
+g++ DistanciarecorridaMurilloKyotto.cpp -o velocidad
+vim DistanciarecorridaMurilloKyotto.cpp
+g++ DistanciarecorridaMurilloKyotto.cpp -o velocidad
+vim DistanciarecorridaMurilloKyotto.cpp
+g++ DistanciarecorridaMurilloKyotto.cpp -o velocidad
+./velocidad
+vim DistanciarecorridaMurilloKyotto.cpp
+clear
+vim SumadeFraccionesMurilloKyotto.cpp
+g++ SumadeFraccionesMurilloKyotto.cpp
+vim SumadeFraccionesMurilloKyotto.cpp
+g++ SumadeFraccionesMurilloKyotto.cpp
+vim SumadeFraccionesMurilloKyotto.cpp
+g++ SumadeFraccionesMurilloKyotto.cpp
+vim SumadeFraccionesMurilloKyotto.cpp
+g++ SumadeFraccionesMurilloKyotto.cpp
+vim SumadeFraccionesMurilloKyotto.cpp
+g++ SumadeFraccionesMurilloKyotto.cpp
+vim SumadeFraccionesMurilloKyotto.cpp
+g++ SumadeFraccionesMurilloKyotto.cpp
+g++ SumadeFraccionesMurilloKyotto.cpp -o SumadeFraccionesMurilloKyotto
+vim SumadeFraccionesMurilloKyotto.cpp
+g++ SumadeFraccionesMurilloKyotto.cpp -o SumadeFraccionesMurilloKyotto
+vim SumadeFraccionesMurilloKyotto.cpp
+g++ SumadeFraccionesMurilloKyotto.cpp -o SumadeFraccionesMurilloKyotto
+vim SumadeFraccionesMurilloKyotto.cpp
+g++ SumadeFraccionesMurilloKyotto.cpp -o SumadeFraccionesMurilloKyotto
+vim SumadeFraccionesMurilloKyotto.cpp
+g++ SumadeFraccionesMurilloKyotto.cpp -o SumadeFraccionesMurilloKyotto
+vim SumadeFraccionesMurilloKyotto.cpp
+g++ SumadeFraccionesMurilloKyotto.cpp -o SumadeFraccionesMurilloKyotto
+vim SumadeFraccionesMurilloKyotto.cpp
+g++ SumadeFraccionesMurilloKyotto.cpp -o SumadeFraccionesMurilloKyotto
+vim SumadeFraccionesMurilloKyotto.cpp
+g++ SumadeFraccionesMurilloKyotto.cpp -o SumadeFraccionesMurilloKyotto
+vim SumadeFraccionesMurilloKyotto.cpp
+g++ SumadeFraccionesMurilloKyotto.cpp -o SumadeFraccionesMurilloKyotto
+ls
+vim areacirculoKyottoMurillo.cpp
+vim areayperimetrodelcirculo.cpp
+g++ areayperimetrodelcirculo.cpp -o areayperimetro
+vim areayperimetrodelcirculo.cpp
+g++ areayperimetrodelcirculo.cpp -o areayperimetro
+vim areayperimetrodelcirculo.cpp
+g++ areayperimetrodelcirculo.cpp -o areayperimetro
+vim areayperimetrodelcirculo.cpp
+g++ areayperimetrodelcirculo.cpp -o areayperimetro
+./areayperimetro
+vim areayperimetrodelcirculo.cpp
+g++ areayperimetrodelcirculo.cpp -o areayperimetro
+vim areayperimetrodelcirculo.cpp
+g++ areayperimetrodelcirculo.cpp -o areayperimetro
+ls
+vim SumadeFraccionesMurilloKyotto.cpp
