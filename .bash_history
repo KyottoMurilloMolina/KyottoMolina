@@ -247,3 +247,62 @@ vim areayperimetrodelcirculo.cpp
 g++ areayperimetrodelcirculo.cpp -o areayperimetro
 ls
 vim SumadeFraccionesMurilloKyotto.cpp
+ls
+mv Suma3KyottoMurillo.cpp Suma3MurilloKyotto.cpp
+ls
+git init 
+git add .
+git commit -m "version1"
+git remote add origin https://github.com/KyottoMurilloMolina/KyottoMolina.git
+git push -u origin master
+vim MultiplicacionMurilloKyotto.cpp
+g++ MultiplicacionMurilloKyotto.cpp -o multiplicacion
+vim MultiplicacionMurilloKyotto.cpp
+g++ MultiplicacionMurilloKyotto.cpp -o multiplicacion
+./multiplicacion
+vim MultiplicacionMurilloKyotto.cpp
+g++ MultiplicacionMurilloKyotto.cpp -o multiplicacion
+./multiplicacion
+vim MultiplicacionMurilloKyotto.cpp
+g++ MultiplicacionMurilloKyotto.cpp -o multiplicacion
+./multiplicacion
+vim MultiplicacionMurilloKyotto.cpp
+g++ MultiplicacionMurilloKyotto.cpp -o multiplicacion
+./multiplicacion
+vim MultiplicacionMurilloKyotto.cpp
+g++ MultiplicacionMurilloKyotto.cpp -o multiplicacion
+./multiplicacion
+vim MultiplicacionMurilloKyotto.cpp
+g++ MultiplicacionMurilloKyotto.cpp -o multiplicacion
+./multiplicacion
+vim MultiplicacionMurilloKyotto.cpp
+g++ MultiplicacionMurilloKyotto.cpp -o multiplicacion
+./multiplicacion
+vim MultiplicacionMurilloKyotto.cpp
+g++ MultiplicacionMurilloKyotto.cpp -o multiplicacion
+./multiplicacion
+vim contraseña.cpp
+g++ contraseña.cpp -o contra
+vim contraseña.cpp
+g++ contraseña.cpp -o contra
+vim contraseña.cpp
+g++ contraseña.cpp -o contra
+
+vim contraseña.cpp
+g++ contraseña.cpp -o contra
+./contra
+vim contraseña.cpp
+vim CajeroAutomatico.cpp
+g++ CajeroAutomatico.cpp -o cajeroautomatico
+vim CajeroAutomatico.cpp
+g++ CajeroAutomatico.cpp -o cajeroautomatico
+vim CajeroAutomatico.cpp
+g++ CajeroAutomatico.cpp -o cajeroautomatico
+vim CajeroAutomatico.cpp
+g++ CajeroAutomatico.cpp -o cajeroautomatico
+vim CajeroAutomatico.cpp
+clear
+g++ CajeroAutomatico.cpp -o cajeroautomatico
+vim CajeroAutomatico.cpp
+g++ CajeroAutomatico.cpp -o cajeroautomatico
+./cajeroautomatico
