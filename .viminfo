@@ -20,12 +20,14 @@
 $z
 
 # Command Line History (newest to oldest):
-:wq
-|2,0,1697725001,,"wq"
 :q
-|2,0,1697724349,,"q"
+|2,0,1698419537,,"q"
 :w
-|2,0,1697724045,,"w"
+|2,0,1698419536,,"w"
+:e
+|2,0,1698419305,,"e"
+:wq
+|2,0,1697910705,,"wq"
 :set nu
 |2,0,1697118519,,"set nu"
 :w 
@@ -75,230 +77,303 @@ $z
 # global variables:
 
 # File marks:
-'0  16  0  ~/Cajero1.cpp
-|4,48,16,0,1697725001,"~/Cajero1.cpp"
-'1  16  0  ~/Cajero1.cpp
-|4,49,16,0,1697724916,"~/Cajero1.cpp"
-'2  22  1  ~/CajeroAutomatico.cpp
-|4,50,22,1,1697724406,"~/CajeroAutomatico.cpp"
-'3  1  0  ~/cajeroautomatico.cpp
-|4,51,1,0,1697724349,"~/cajeroautomatico.cpp"
-'4  19  10  ~/saldo.cpp
-|4,52,19,10,1697724046,"~/saldo.cpp"
-'5  13  9  ~/hipotenusa.cpp
-|4,53,13,9,1697723802,"~/hipotenusa.cpp"
-'6  13  10  ~/hipotenusa.cpp
-|4,54,13,10,1697723478,"~/hipotenusa.cpp"
-'7  10  30  ~/suma2numeross.cpp
-|4,55,10,30,1697722441,"~/suma2numeross.cpp"
-'8  17  0  ~/suma2numeross.cpp
-|4,56,17,0,1697722363,"~/suma2numeross.cpp"
-'9  17  0  ~/suma2numeross.cpp
-|4,57,17,0,1697722363,"~/suma2numeross.cpp"
+'0  22  58  ~/Producto.cpp
+|4,48,22,58,1698419537,"~/Producto.cpp"
+'1  12  45  ~/Producto.cpp
+|4,49,12,45,1698419309,"~/Producto.cpp"
+'2  12  45  ~/Producto.cpp
+|4,50,12,45,1698419309,"~/Producto.cpp"
+'3  23  53  ~/Producto.cpp
+|4,51,23,53,1698419045,"~/Producto.cpp"
+'4  23  53  ~/Producto.cpp
+|4,52,23,53,1698419045,"~/Producto.cpp"
+'5  23  53  ~/Producto.cpp
+|4,53,23,53,1698419045,"~/Producto.cpp"
+'6  23  53  ~/Producto.cpp
+|4,54,23,53,1698419045,"~/Producto.cpp"
+'7  21  1  ~/Producto.cpp
+|4,55,21,1,1698418898,"~/Producto.cpp"
+'8  21  1  ~/Producto.cpp
+|4,56,21,1,1698418898,"~/Producto.cpp"
+'9  21  1  ~/Producto.cpp
+|4,57,21,1,1698418898,"~/Producto.cpp"
 
 # Jumplist (newest first):
--'  16  0  ~/Cajero1.cpp
-|4,39,16,0,1697725001,"~/Cajero1.cpp"
--'  16  0  ~/Cajero1.cpp
-|4,39,16,0,1697724916,"~/Cajero1.cpp"
--'  1  0  ~/Cajero1.cpp
-|4,39,1,0,1697724888,"~/Cajero1.cpp"
--'  1  0  ~/Cajero1.cpp
-|4,39,1,0,1697724888,"~/Cajero1.cpp"
--'  22  1  ~/CajeroAutomatico.cpp
-|4,39,22,1,1697724406,"~/CajeroAutomatico.cpp"
--'  22  1  ~/CajeroAutomatico.cpp
-|4,39,22,1,1697724406,"~/CajeroAutomatico.cpp"
--'  22  1  ~/CajeroAutomatico.cpp
-|4,39,22,1,1697724406,"~/CajeroAutomatico.cpp"
--'  22  1  ~/CajeroAutomatico.cpp
-|4,39,22,1,1697724406,"~/CajeroAutomatico.cpp"
--'  24  40  ~/CajeroAutomatico.cpp
-|4,39,24,40,1697724372,"~/CajeroAutomatico.cpp"
--'  24  40  ~/CajeroAutomatico.cpp
-|4,39,24,40,1697724372,"~/CajeroAutomatico.cpp"
--'  24  40  ~/CajeroAutomatico.cpp
-|4,39,24,40,1697724372,"~/CajeroAutomatico.cpp"
--'  24  40  ~/CajeroAutomatico.cpp
-|4,39,24,40,1697724372,"~/CajeroAutomatico.cpp"
--'  1  0  ~/cajeroautomatico.cpp
-|4,39,1,0,1697724349,"~/cajeroautomatico.cpp"
--'  1  0  ~/cajeroautomatico.cpp
-|4,39,1,0,1697724349,"~/cajeroautomatico.cpp"
--'  1  0  ~/cajeroautomatico.cpp
-|4,39,1,0,1697724349,"~/cajeroautomatico.cpp"
--'  1  0  ~/cajeroautomatico.cpp
-|4,39,1,0,1697724349,"~/cajeroautomatico.cpp"
--'  1  0  ~/cajeroautomatico.cpp
-|4,39,1,0,1697724349,"~/cajeroautomatico.cpp"
--'  1  0  ~/cajeroautomatico.cpp
-|4,39,1,0,1697724349,"~/cajeroautomatico.cpp"
--'  1  0  ~/cajeroautomatico.cpp
-|4,39,1,0,1697724349,"~/cajeroautomatico.cpp"
--'  1  0  ~/cajeroautomatico.cpp
-|4,39,1,0,1697724349,"~/cajeroautomatico.cpp"
--'  19  10  ~/saldo.cpp
-|4,39,19,10,1697724046,"~/saldo.cpp"
--'  19  10  ~/saldo.cpp
-|4,39,19,10,1697724046,"~/saldo.cpp"
--'  19  10  ~/saldo.cpp
-|4,39,19,10,1697724046,"~/saldo.cpp"
--'  19  10  ~/saldo.cpp
-|4,39,19,10,1697724046,"~/saldo.cpp"
--'  19  10  ~/saldo.cpp
-|4,39,19,10,1697724046,"~/saldo.cpp"
--'  19  10  ~/saldo.cpp
-|4,39,19,10,1697724046,"~/saldo.cpp"
--'  19  10  ~/saldo.cpp
-|4,39,19,10,1697724046,"~/saldo.cpp"
--'  19  10  ~/saldo.cpp
-|4,39,19,10,1697724046,"~/saldo.cpp"
--'  19  10  ~/saldo.cpp
-|4,39,19,10,1697724046,"~/saldo.cpp"
--'  19  10  ~/saldo.cpp
-|4,39,19,10,1697724046,"~/saldo.cpp"
--'  19  10  ~/saldo.cpp
-|4,39,19,10,1697724046,"~/saldo.cpp"
--'  19  10  ~/saldo.cpp
-|4,39,19,10,1697724046,"~/saldo.cpp"
--'  19  10  ~/saldo.cpp
-|4,39,19,10,1697724046,"~/saldo.cpp"
--'  19  10  ~/saldo.cpp
-|4,39,19,10,1697724046,"~/saldo.cpp"
--'  19  10  ~/saldo.cpp
-|4,39,19,10,1697724046,"~/saldo.cpp"
--'  19  10  ~/saldo.cpp
-|4,39,19,10,1697724046,"~/saldo.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  9  ~/hipotenusa.cpp
-|4,39,13,9,1697723802,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
--'  13  10  ~/hipotenusa.cpp
-|4,39,13,10,1697723478,"~/hipotenusa.cpp"
+-'  22  58  ~/Producto.cpp
+|4,39,22,58,1698419537,"~/Producto.cpp"
+-'  12  45  ~/Producto.cpp
+|4,39,12,45,1698419325,"~/Producto.cpp"
+-'  12  45  ~/Producto.cpp
+|4,39,12,45,1698419309,"~/Producto.cpp"
+-'  23  53  ~/Producto.cpp
+|4,39,23,53,1698419145,"~/Producto.cpp"
+-'  23  53  ~/Producto.cpp
+|4,39,23,53,1698419145,"~/Producto.cpp"
+-'  23  53  ~/Producto.cpp
+|4,39,23,53,1698419045,"~/Producto.cpp"
+-'  21  1  ~/Producto.cpp
+|4,39,21,1,1698418947,"~/Producto.cpp"
+-'  21  1  ~/Producto.cpp
+|4,39,21,1,1698418947,"~/Producto.cpp"
+-'  21  1  ~/Producto.cpp
+|4,39,21,1,1698418947,"~/Producto.cpp"
+-'  21  1  ~/Producto.cpp
+|4,39,21,1,1698418898,"~/Producto.cpp"
+-'  9  1  ~/Producto.cpp
+|4,39,9,1,1698418802,"~/Producto.cpp"
+-'  9  1  ~/Producto.cpp
+|4,39,9,1,1698418802,"~/Producto.cpp"
+-'  9  1  ~/Producto.cpp
+|4,39,9,1,1698418802,"~/Producto.cpp"
+-'  9  1  ~/Producto.cpp
+|4,39,9,1,1698418802,"~/Producto.cpp"
+-'  9  1  ~/Producto.cpp
+|4,39,9,1,1698418511,"~/Producto.cpp"
+-'  7  0  ~/Producto.cpp
+|4,39,7,0,1698418497,"~/Producto.cpp"
+-'  7  0  ~/Producto.cpp
+|4,39,7,0,1698418497,"~/Producto.cpp"
+-'  7  0  ~/Producto.cpp
+|4,39,7,0,1698418497,"~/Producto.cpp"
+-'  7  0  ~/Producto.cpp
+|4,39,7,0,1698418497,"~/Producto.cpp"
+-'  7  0  ~/Producto.cpp
+|4,39,7,0,1698418497,"~/Producto.cpp"
+-'  7  0  ~/Producto.cpp
+|4,39,7,0,1698418463,"~/Producto.cpp"
+-'  1  0  ~/Producto.cpp
+|4,39,1,0,1698416769,"~/Producto.cpp"
+-'  1  0  ~/Producto.cpp
+|4,39,1,0,1698416769,"~/Producto.cpp"
+-'  1  0  ~/Producto.cpp
+|4,39,1,0,1698416769,"~/Producto.cpp"
+-'  1  0  ~/Producto.cpp
+|4,39,1,0,1698416769,"~/Producto.cpp"
+-'  1  0  ~/Producto.cpp
+|4,39,1,0,1698416769,"~/Producto.cpp"
+-'  1  0  ~/Producto.cpp
+|4,39,1,0,1698416769,"~/Producto.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698329556,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698328214,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698328214,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698328214,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698328214,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698328214,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698328214,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698328214,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698328214,"~/practica3.cpp"
+-'  9  0  ~/practica3.cpp
+|4,39,9,0,1698328214,"~/practica3.cpp"
 
 # History of marks within files (newest to oldest):
+
+> ~/Producto.cpp
+	*	1698419536	0
+	"	22	58
+	^	22	59
+	.	23	58
+	+	10	62
+	+	8	1
+	+	7	16
+	+	10	62
+	+	14	61
+	+	13	62
+	+	17	68
+	+	18	1
+	+	7	25
+	+	22	79
+	+	26	0
+	+	9	1
+	+	24	7
+	+	23	7
+	+	22	37
+	+	22	54
+	+	23	66
+	+	24	26
+	+	23	54
+	+	14	45
+	+	13	46
+	+	12	48
+	+	12	46
+	+	22	57
+	+	23	58
+	+	24	57
+	+	23	57
+	+	22	57
+	+	23	57
+	+	24	58
+	+	23	58
+
+> ~/practica3.cpp
+	*	1698329555	0
+	"	9	0
+	^	9	1
+	.	9	0
+	+	9	0
+
+> ~/practica2.cpp
+	*	1698327989	0
+	"	8	0
+	^	8	1
+	.	8	0
+	+	8	0
+
+> ~/practica1.cpp
+	*	1698327623	0
+	"	12	0
+	^	12	1
+	.	12	0
+	+	12	0
+
+> ~/hipotenusa.cpp
+	*	1698327175	0
+	"	13	9
+	^	13	10
+	.	13	10
+	+	8	14
+	+	7	12
+	+	11	31
+	+	14	0
+	+	13	10
+
+> ~/katherine.cpp
+	*	1697910702	0
+	"	1	0
 
 > ~/Cajero1.cpp
 	*	1697724999	0
@@ -337,17 +412,6 @@ $z
 	+	15	18
 	+	20	0
 	+	19	11
-
-> ~/hipotenusa.cpp
-	*	1697723800	0
-	"	13	9
-	^	13	10
-	.	13	10
-	+	8	14
-	+	7	12
-	+	11	31
-	+	14	0
-	+	13	10
 
 > ~/suma2numeross.cpp
 	*	1697722439	0

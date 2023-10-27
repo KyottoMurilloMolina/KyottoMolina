@@ -306,3 +306,47 @@ g++ CajeroAutomatico.cpp -o cajeroautomatico
 vim CajeroAutomatico.cpp
 g++ CajeroAutomatico.cpp -o cajeroautomatico
 ./cajeroautomatico
+vim suma2numeross.cpp
+g++ suma2numeros.cpp -o suma2numeros
+g++ suma2numeross.cpp -o suma2numero8s
+vim suma2numeross.cpp
+g++ suma2numeross.cpp -o suma2numeros
+./suma2numeros
+vim hipotenusa.cpp
+g++ hipotenusa.cpp -o hipotenusa
+./hipotenusa
+vim hipotenusa.cpp
+ls
+vim saldo.cpp
+ls
+vim cajeroautomatico.cpp
+ls
+vim CajeroAutomatico.cpp
+mv CajeroAutomatico.cpp Cajero3.cpp
+ls
+mv Seguridad3Capas.cpp Cajero2.cpp
+ls
+vim Cajero1.cpp
+ls
+g++ Cajero1.cpp -o Cajero1
+./Cajero1
+vim Cajero1.cpp
+git init
+git add .
+git commit -m "versio1"
+git remote add origin https://github.com/KyottoMurilloMolina/KyottoMolina.git
+git push -u origin master
+clean
+clear
+ls
+vim hipotenusa.cpp
+vim practica1.cpp
+g++ practica1.cpp -o pract
+./pract
+vim practica2.cpp
+g++ practica2.cpp -o pract2
+./pract2
+vim practica3.cpp
+g++ practica3.cpp -o pract3
+./pract3
+vim practica3.cpp
